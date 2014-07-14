@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shuffle</string>
+    <string name="hello_world">Android - Shuffle Cards Example</string>
+    <string name="cards_available">Cards Available: </string>
+    <string name="status_messages_title">Status Messages</string>
+    <string name="action_settings">Settings</string>
+    <string name="shuffle_button_title">Shuffle</string>
+    <string name="deal_button_title">Deal 1 Card</string>
+</resources>
